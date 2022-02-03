@@ -22,9 +22,15 @@ function fullSchedule() {
 }
 
 function getSchedule(scheduleTarget) {
-  if (!scheduleTarget) {
-    return fullSchedule();
+  const weekDay = Object.keys(data.hours).includes(scheduleTarget);
+  const animal = species.some((element) => element.name === scheduleTarget);
+  if (weekDay) {
+    return { [scheduleTarget]: fullSchedule()[scheduleTarget] };
   }
+  if (animal) {
+    return species.find((elem) => elem.name === scheduleTarget).availability;
+  }
+  return fullSchedule();
 }
 
 module.exports = getSchedule;
