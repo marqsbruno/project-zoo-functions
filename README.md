@@ -9,7 +9,11 @@ O principal ponto de aprendizado deste projeto é a utilização das Higher Orde
 
 ## Autor 👥
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marques-bruno/](https://www.linkedin.com/in/marques-bruno/))
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marqsbruno](https://github.com/marqsbruno))
+<a href="https://www.linkedin.com/in/marques-bruno/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/marqsbruno" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Os arquivos encontrados na pasta "/data" são de autoria da escola [Trybe](https://github.com/tryber)
+<i>Os arquivos encontrados na pasta "/data" são de autoria da escola [Trybe](https://github.com/tryber)</i>
